@@ -1,0 +1,45 @@
+/*
+This is where the custom css starts. 
+
+@date: 20/12/2020
+@author: placmedia
+*/
+
+.navbar-light .navbar-nav .nav-link {
+    color: #7e97c7 !important;
+}
+
+.inputBox{
+    text-transform: uppercase;
+    font-weight: bold;
+    letter-spacing: 7px;
+}
+
+.vinTitle{
+    letter-spacing: 5px;
+    text-shadow: 2px 2px 4px #0000008a
+}
+.trueVin{
+    color: #f00
+}
+
+
+
+
+
+
+
+/*
+Mobile Specific Design
+*/
+
+@media only screen and (max-width: 767px){
+    .vinTitle{
+        letter-spacing: 1px;
+    }
+    
+}
+
+@media only screen and (min-width: 767px){
+
+}
