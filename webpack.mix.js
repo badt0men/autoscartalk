@@ -11,7 +11,6 @@ const mix = require('laravel-mix');
  |
  */
 
-
  
  mix.copy('resources/css/front.css.map', 'public/assets/css/main.css.map');
  mix.copy('resources/assets/img', 'public/assets/img', false); //copy directory without changing structure or simple USE 'copyDirectory'
@@ -21,7 +20,5 @@ const mix = require('laravel-mix');
  mix.js('resources/assets/js/front.js', 'public/assets/js/main.js');
 
 
-// mix.js('resources/js/app.js', 'public/js')
-//     .postCss('resources/css/app.css', 'public/css', [
-//         //
-//     ]);
+ mix.js('resources/js/app.js', 'public/js')
+ .sass('resources/sass/app.scss', 'public/css');

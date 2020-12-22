@@ -327,14 +327,26 @@ $(document).ready(function () {
 
 /***/ }),
 
+/***/ "./resources/sass/app.scss":
+/*!*********************************!*\
+  !*** ./resources/sass/app.scss ***!
+  \*********************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+// removed by extract-text-webpack-plugin
+
+/***/ }),
+
 /***/ 0:
-/*!********************************************!*\
-  !*** multi ./resources/assets/js/front.js ***!
-  \********************************************/
+/*!**********************************************************************!*\
+  !*** multi ./resources/assets/js/front.js ./resources/sass/app.scss ***!
+  \**********************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! /Users/placmedia/Sites/Laravel/first-app/resources/assets/js/front.js */"./resources/assets/js/front.js");
+__webpack_require__(/*! /Users/placmedia/Sites/Laravel/first-app/resources/assets/js/front.js */"./resources/assets/js/front.js");
+module.exports = __webpack_require__(/*! /Users/placmedia/Sites/Laravel/first-app/resources/sass/app.scss */"./resources/sass/app.scss");
 
 
 /***/ })

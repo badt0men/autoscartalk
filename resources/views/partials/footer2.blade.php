@@ -1,12 +1,12 @@
 <footer class="footer section pt-6 pt-md-8 pt-lg-10 pb-3 bg-primary text-white overflow-hidden">
-    <div class="pattern pattern-soft top"></div>
+    
     <div class="container">
         <div class="row">
             <div class="col-lg-4 mb-4 mb-lg-0">
                 <a class="footer-brand mr-lg-5 d-flex" href="../../index.html">
                     <img src="../assets/img/brand/AutosAndCarsTalkLOGO1alt.svg" height="35" class="mr-3" alt="Footer logo">
                 </a>
-                <p class="my-4">Autos & Cartalk brings you the best, hassle-free and simple solutions to everything automotive</p>
+                <p class="my-4">Autos & Cartalk brings you the best, hassle-free and simple solutions to everything automotive.</p>
                 <div class="dropdown mb-4 mb-lg-0">
                     <a id="langsDropdown" href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" class="dropdown-toggle footer-language-link">
                         <img src="../assets/img/flags/united-states-of-america.svg" alt="USA Flag" class="language-flag"> English

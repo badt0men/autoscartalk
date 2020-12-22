@@ -22,6 +22,8 @@ Route::get('/result', function(){
     return view('pages.result');
 });
 
+Route::get('/{vinNum}/vehicle-specification', [CheckController::class, 'specification']);
+
 
 Route::post('/', [CheckController::class, 'index']);
 

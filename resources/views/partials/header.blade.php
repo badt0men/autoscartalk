@@ -10,7 +10,7 @@
                     <div class="row">
                         <div class="col-6 collapse-brand">
                             <a href="../../index.html">
-                                <img src="../assets/img/brand/dAutosAndCarsTalkLOGO1.svg" height="65" alt="Logo Impact">
+                                <img src="../assets/img/brand/AutosAndCarsTalkLOGO1.svg" height="65" alt="Logo Impact">
                             </a>
                         </div>
                         <div class="col-6 collapse-close">
@@ -26,14 +26,19 @@
                     </li>
                     <li class="nav-item ">
                         <a href="#" class="nav-link">
-                            <span class="nav-link-inner-text">About</span>
+                            <span class="nav-link-inner-text">Guide</span>
                 
                         </a>
                     
                     </li>
                     <li class="nav-item">
                         <a href="#" class="nav-link">
-                            <span class="nav-link-inner-text">Pricing</span>
+                            <span class="nav-link-inner-text">FAQ</span>
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="#" class="nav-link">
+                            <span class="nav-link-inner-text">Blog</span>
                         </a>
                     </li>
                     <li class="nav-item">

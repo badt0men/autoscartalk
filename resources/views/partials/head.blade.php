@@ -48,13 +48,14 @@
 <link type="text/css" href="{{ asset ('assets/vendor/@fortawesome/fontawesome-free/css/all.min.css')}}" rel="stylesheet">
 
 <!-- Nucleo icons -->
-<link rel="stylesheet" href="{{asset('assets/vendor/nucleo/css/nucleo.css') }}" type="text/css">
+<link type="text/css" r href=" {{ asset('assets/vendor/nucleo/css/nucleo.css') }}"el="stylesheet" >
 
 <!-- Prism -->
 <link type="text/css" href=" {{ asset('assets/vendor/prismjs/themes/prism.css') }}" rel="stylesheet">
 
 <!-- Front CSS -->
 <link type="text/css" href="{{ asset('assets/css/main.css')}}" rel="stylesheet">
+<link type="text/css" href="{{ asset ('css/app.css') }}" rel="stylesheet">
 <link type="text/css" href="{{ asset('assets/css/custom.css')}}" rel="stylesheet">
 
 </head>
