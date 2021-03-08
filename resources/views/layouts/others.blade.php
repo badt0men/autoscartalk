@@ -4,7 +4,7 @@
     @include('partials/header')
     <main>
         @yield('content')
-        @include('partials/footer2')
+        @include('partials/footerAlt')
     </main>
     @include('partials/scripts')
 </body>
